@@ -1,1 +1,2 @@
 # bashAutomation
+Author Yadav Ritesh
